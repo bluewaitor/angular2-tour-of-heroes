@@ -36,3 +36,11 @@ jspm_packages
 
 # Created by .ignore support plugin (hsz.mobi)
 .idea
+
+typings
+link-checker-results.txt
+**/*npm-debug.log.*
+*.js
+*.js.map
+_test-output
+_temp
